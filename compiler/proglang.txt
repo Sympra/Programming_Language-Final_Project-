@@ -1,0 +1,7 @@
+tibuok grado = 86;
+
+ug(grado <= 75){
+    imprenta("ikaw bisaya bagsak ka");
+}edi{
+    imprenta("ikaw tagalog pasado ka");
+}
